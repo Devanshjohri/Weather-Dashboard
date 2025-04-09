@@ -1,6 +1,6 @@
 # Weather Dashboard
 
-A beautiful, responsive, and abimated weather web app built with **React.js (VITE)**, **Tailwind CSS**,  **Framer Motion**, and the **OpenWeatherMap API**.
+A beautiful, responsive, and abimated weather web app built with **React.js (VITE)**, **Tailwind CSS**,  **Framer Motion**, **Axios**, **Lucide React**, and the **OpenWeatherMap API**.
 Users can search for any city and view real-time weather data along with a 5-day forecast.
 
 

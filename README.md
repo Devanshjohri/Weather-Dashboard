@@ -7,12 +7,12 @@ Users can search for any city and view real-time weather data along with a 5-day
 ## Features
 
 * Search any city and get:
-- Current Weather
-- Temperature (°C)
-- Humidity (%)
-- Wind Speed (km/h)
-- Weather Condition with icon
-- Live time display
+    - Current Weather
+    - Temperature (°C)
+    - Humidity (%)
+    - Wind Speed (km/h)
+    - Weather Condition with icon
+    - Live time display
 
 ## 5-Day Forecast
 - Day-wise cards with temperature, humidity and wind speed
